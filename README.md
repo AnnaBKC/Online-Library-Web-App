@@ -18,9 +18,13 @@ Any CRUD operation is dynamically reflected in the website. E.g. After adding a 
 ![ER!](images/er-diagram.png)
 
 ## Pages
+Book page:
 ![BOOK!](images/book-page.png)
+Author page:
 ![AUTHOR!](images/author-page.png)
+Member page:
 ![MEMBER!](images/member-page.png)
+Member book loan page:
 ![MEMBERLOAN!](images/member-loan-page.png)
 
 ## Hosting
