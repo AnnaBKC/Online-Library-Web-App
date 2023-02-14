@@ -31,15 +31,15 @@ Any CRUD operation is dynamically reflected in the website. E.g. After adding a 
 
 ## Pages
 #### Book page:
-<img src="https://github.com/AnnaBKC/Online-Library-Web-App/blob/main/images/book-page.png" height=600>
+<img src="https://github.com/AnnaBKC/Online-Library-Web-App/blob/main/images/book-page.png" height=700>
 
-### Author page:
+#### Author page:
 ![AUTHOR!](images/author-page.png)
 
-### Member page:
+#### Member page:
 ![MEMBER!](images/member-page.png)
 
-### Member book loan page:
+#### Member book loan page:
 ![MEMBERLOAN!](images/member-loan-page.png)
 
 
