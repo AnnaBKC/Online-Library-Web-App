@@ -34,13 +34,13 @@ Any CRUD operation is dynamically reflected in the website. E.g. After adding a 
 <img src="https://github.com/AnnaBKC/Online-Library-Web-App/blob/main/images/book-page.png" height=700>
 
 #### Author page:
-![AUTHOR!](images/author-page.png)
+<img src="https://github.com/AnnaBKC/Online-Library-Web-App/blob/main/images/author-page.png" height=700>
 
 #### Member page:
-![MEMBER!](images/member-page.png)
+<img src="https://github.com/AnnaBKC/Online-Library-Web-App/blob/main/images/member-page.png" height=700>
 
 #### Member book loan page:
-![MEMBERLOAN!](images/member-loan-page.png)
+<img src="https://github.com/AnnaBKC/Online-Library-Web-App/blob/main/images/member-loan-page.png" height=700>
 
 
 
