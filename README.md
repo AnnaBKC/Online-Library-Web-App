@@ -4,7 +4,7 @@ This project aimed to simulate certain functionalities and management of an Onli
 The library supports the management of existing and new members, books and authors via CRUD operations and the operation of loans of books to members.
 Any CRUD operation is dynamically reflected in the website. E.g. After adding a new book, the new book and its details will be instantly shown in the results section.
 
-## Details:
+## Details
   - A member can sign up and borrow up to 5 books at any time. It is not possible to rent more than 1 copy of the same book.
   - If the member has rented 5 books and wishes to rent a different book, the member will need to return one or more books.
   - Each book title has a limit of 10 digital copies.
@@ -12,23 +12,32 @@ Any CRUD operation is dynamically reflected in the website. E.g. After adding a 
   - Each book only has one author. 
   - Books in the library can have the same author.
   - CRUD operations are enabled for member, book and authors. 
+
+## Frontend
+  - Javascript
+  - HTML
+  - Bootstrap
+
+## Backend
+  - Javascript
+  - Node.js
+  - Express.js
+  - MariaDB (MySQL)
+
   
 ## Schema & ER Diagram
 ![SCHEMA!](images/schema.png)
 ![ER!](images/er-diagram.png)
 
 ## Pages
-Book page:
-![BOOK!](images/book-page.png)
-Author page:
+###Book page:
+<img src="https://github.com/AnnaBKC/Online-Library-Web-App/blob/main/images/book-page.png" width=200 height=200>
+###Author page:
 ![AUTHOR!](images/author-page.png)
-Member page:
+###Member page:
 ![MEMBER!](images/member-page.png)
-Member book loan page:
+###Member book loan page:
 ![MEMBERLOAN!](images/member-loan-page.png)
 
-## Hosting
-- The Library Web App was hosted on a school server using Node.js and Express.js. 
-- The app was connected to MariaDB
 
 
